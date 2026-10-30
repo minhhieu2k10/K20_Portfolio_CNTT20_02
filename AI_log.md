@@ -32,7 +32,7 @@
 ## 3. Quyết định của tôi
 
 - [x] Chấp nhận gợi ý
-- [x] Chỉnh sửa gợi ý rồi áp dụng
+- [ ] Chỉnh sửa gợi ý rồi áp dụng
 - [ ] Bác bỏ gợi ý
 
 - Tôi quyết định làm gì: [ sửa lại liên kết đến file css ]
